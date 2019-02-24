@@ -53,8 +53,4 @@ dkms.conf
 
 # Mac
 .DS_Store
-
-*
-!*.*
-
 .history/
